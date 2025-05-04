@@ -1,0 +1,14 @@
+git
+workflow-aggregator
+pipeline-stage-view
+blueocean
+docker-workflow
+credentials-binding
+timestamper
+ansicolor
+sonar
+checkstyle
+warnings-ng
+dependency-check-jenkins-plugin
+github-branch-source
+slack
