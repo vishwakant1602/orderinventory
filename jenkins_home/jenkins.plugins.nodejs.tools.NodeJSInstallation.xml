@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.plugins.nodejs.tools.NodeJSInstallation_-DescriptorImpl plugin="nodejs@1.6.4">
+  <installations class="jenkins.plugins.nodejs.tools.NodeJSInstallation-array">
+    <jenkins.plugins.nodejs.tools.NodeJSInstallation>
+      <name>NodeJS 18</name>
+      <properties>
+        <hudson.tools.InstallSourceProperty>
+          <installers>
+            <jenkins.plugins.nodejs.tools.NodeJSInstaller>
+              <id>23.11.0</id>
+              <npmPackagesRefreshHours>72</npmPackagesRefreshHours>
+              <force32Bit>false</force32Bit>
+            </jenkins.plugins.nodejs.tools.NodeJSInstaller>
+          </installers>
+        </hudson.tools.InstallSourceProperty>
+      </properties>
+    </jenkins.plugins.nodejs.tools.NodeJSInstallation>
+    <jenkins.plugins.nodejs.tools.NodeJSInstallation>
+      <properties>
+        <hudson.tools.InstallSourceProperty>
+          <installers>
+            <jenkins.plugins.nodejs.tools.NodeJSInstaller>
+              <id>23.11.0</id>
+              <npmPackagesRefreshHours>72</npmPackagesRefreshHours>
+              <force32Bit>false</force32Bit>
+            </jenkins.plugins.nodejs.tools.NodeJSInstaller>
+          </installers>
+        </hudson.tools.InstallSourceProperty>
+      </properties>
+    </jenkins.plugins.nodejs.tools.NodeJSInstallation>
+  </installations>
+</jenkins.plugins.nodejs.tools.NodeJSInstallation_-DescriptorImpl>

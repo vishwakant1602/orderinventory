@@ -1,0 +1,14 @@
+commit 06c3ef317fae61ced859b485741862e065a04997
+tree bfc89aad55f31ab51952e8f560b7b695f3b6e78b
+parent 339c80fed9856b4768d27423b722e3bf8f2e6c92
+author vishwakant1602 <121593799+vishwakant1602@users.noreply.github.com> 2025-05-05 01:51:56 +0530
+committer vishwakant1602 <121593799+vishwakant1602@users.noreply.github.com> 2025-05-05 01:51:56 +0530
+
+    file change
+
+
+:000000 100644 0000000000000000000000000000000000000000 739ff1d9acaaae9462470cc151a92f0616d2417b A	jenkins_home/secrets/hudson.console.ConsoleNote.MAC
+:000000 100644 0000000000000000000000000000000000000000 38730b8c2216eed1600b39a7b2312d3ce8d73b21 A	jenkins_home/secrets/hudson.model.Job.serverCookie
+:000000 100644 0000000000000000000000000000000000000000 4eb409368f2c8ae2147feb276c66cf433a129597 A	jenkins_home/secrets/hudson.util.Secret
+:000000 100644 0000000000000000000000000000000000000000 ae2e0a0baf5e37223b5c8a12eb57f6b68738adaf A	jenkins_home/secrets/org.jenkinsci.plugins.workflow.cps.CpsScmFlowDefinition.filePathWithSuffix
+:000000 100644 0000000000000000000000000000000000000000 d5e50e63a63788a7cce0df578f812ab70cef2c07 A	jenkins_home/secrets/org.jenkinsci.plugins.workflow.log.ConsoleAnnotators.consoleAnnotator

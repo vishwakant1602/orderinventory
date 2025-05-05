@@ -1,0 +1,3 @@
+[filesystem "Eclipse Adoptium|17.0.14|/run/host_mark/Users"]
+	timestampResolution = 204 milliseconds
+	minRacyThreshold = 0 nanoseconds

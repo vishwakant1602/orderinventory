@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.docker.commons.tools.DockerTool_-DescriptorImpl plugin="docker-commons@451.vd12c371eeeb_3">
+  <installations class="org.jenkinsci.plugins.docker.commons.tools.DockerTool-array">
+    <org.jenkinsci.plugins.docker.commons.tools.DockerTool>
+      <name></name>
+      <home></home>
+      <properties/>
+    </org.jenkinsci.plugins.docker.commons.tools.DockerTool>
+  </installations>
+</org.jenkinsci.plugins.docker.commons.tools.DockerTool_-DescriptorImpl>
